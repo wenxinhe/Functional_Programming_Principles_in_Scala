@@ -2,6 +2,8 @@
 *.log
 .idea
 *.iml
+*.vtt
+*.mp4
 
 # sbt specific
 .cache
